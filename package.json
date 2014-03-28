@@ -1,0 +1,17 @@
+{
+  "name": "node-node",
+  "version": "0.0.0",
+  "description": "Node implementation of an Erlang node",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "erlang"
+  ],
+  "author": "HH Veldstra",
+  "license": "ISC",
+  "dependencies": {
+    "utf8": "~2.0.0"
+  }
+}
